@@ -1,0 +1,151 @@
+<!-- This is the recipe to starting the code -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-align-center">
+                Departments
+            </h1>
+        </div>
+    </div>
+    <!-- Here I am creating circle clickable image 1 -->
+    <div class="row s3-mb-10">
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://campusrec.fsu.edu" data-title="They provide quality recreational programs, services, and facilities that maximize opportunities for life long learning, personal development and leadership through varied recreational endeavors. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20leach.jpg" width="170" height="170" alt="Campus Recreation"></a>
+            <h4>
+                Campus Recreation
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 2 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://career.fsu.edu" data-title="They strive to be the preeminent career center model for designing and delivering comprehensive, innovative, and inclusive career and employment services. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Career%20Center.jpg" width="170" height="170" alt="Career Center"></a>
+            <h4>
+                Career Center
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 3-->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://care.fsu.edu" data-title="CARE&apos;s mission is to assist in facilitating the successful retention and graduation of undergraduate students, while working to enhance student diversity. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20CARE.jpg" width="170" height="170" alt="CARE"></a>
+            <h4>
+                Center for Academic Retention and Enhancement
+            </h4>
+        </div>
+    </div>
+    <!-- Here I am creating circle clickable image 4 -->
+    <div class="row s3-mb-10">
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://cge.fsu.edu" data-title="CGE facilitates international diversity, fosters global understanding and awareness, and enhances internationalization efforts within the FSU community. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Globe.jpg" width="170" height="170" alt="Career Center"></a>
+            <h4>
+                Center for Global Engagement
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 5 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://thecenter.fsu.edu" data-title="They are a student, faculty, and staff source for leadership learning, service opportunities, and social justice education on Florida State&apos;s campus. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/tempImageY03ANl.jpg" width="170" height="170" alt="Center for Leadership and Service"></a>
+            <h4>
+                Center for Leadership and Service
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 6 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://counseling.fsu.edu" data-title=" CAPS provides mental health counseling services and prevention programming to currently enrolled FSU students free of charge. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20CAPS.jpg" width="170" height="170" alt=" Counseling and Psychological Services"></a>
+            <h4>
+                Counseling and Psychological Services
+            </h4>
+        </div>
+    </div>
+    <!-- Here I am creating circle clickable image 7 -->
+    <div class="row s3-mb-10">
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://dsst.fsu.edu" data-title=" They provide services, resources, and advocacy for all students at Florida State University through creative problem-solving, accessibility, and an emphasis on personal accountability. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Transitions.jpg" width="170" height="170" alt=" Department of Student Support &amp; Transitions"></a>
+            <h4>
+                Department of Student Support &amp; Transitions
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 8 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://fsl.fsu.edu" data-title=" They offer students the opportunity to participate in a 100+ year campus tradition while fostering individual and community development through leadership, scholarship, brotherhood/sisterhood, and service. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20FSL.jpg" width="170" height="170" alt=" Fraternity &amp; Sorority Life"></a>
+            <h4>
+                Fraternity &amp; Sorority Life
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 9 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://nsfp.fsu.edu" data-title="  They exist to aid in the transition of our new students and their family members to Florida State University. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/tempImagedHRwsh.jpg" width="170" height="170" alt="  New Student &amp; Family Programs"></a>
+            <h4>
+                New Student &amp; Family Programs
+            </h4>
+        </div>
+    </div>
+    <!-- Here I am creating circle clickable image 10 -->
+    <div class="row s3-mb-10">
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://sccs.fsu.edu" data-title=" They are responsible for upholding community behavior standards and educating FSU students how to responsibly engage with the FSU community. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Conduct.jpg" width="170" height="170" alt=" Student Conduct &amp; Community Standards"></a>
+            <h4>
+                Student Conduct &amp; Community Standards
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 11 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://engagement.fsu.edu" data-title=" Through collaboration, they promote student advocacy and organizational growth at FSU while creating campus programs that connect students to the University, foster belonging, and inspire global impact. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Engagement.jpg" width="170" height="170" alt="  Student Engagement"></a>
+            <h4>
+                Student Engagement
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 12 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://soi.fsu.edu" data-title=" They advise popular student organizations and host traditional events such as Involvement Fairs, Garnet &amp; Gold Tailgates, Leadership Awards Night, and Market Wednesday. &gt; "><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Market.webp" width="170" height="170" alt="  Student Organizations and Involvement "></a>
+            <h4>
+                Student Organizations and Involvement
+            </h4>
+        </div>
+    </div>
+    <!-- Here I am creating circle clickable image 13 -->
+    <div class="row s3-mb-10">
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link garnet-link" href="https://sai.fsu.edu&quot;" data-title=" They work to serve the needs of students by offering a chance to connect with others. In doing so, students learn more about themselves and intersecting diversities, which builds networks for success after graduation. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20BSU.webp" width="170" height="170" alt="  Student Agencies and Institutes "></a>
+            <h4>
+                Student Agencies and Institutes
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 14 -->
+        <div class="col-lg-4 col-md-4 text-center">
+            <a class="circle-link gold-link" href="https://sga.fsu.edu" data-title=" They are the student&apos;s voice at Florida State University. SGA has all three branches of the government - executive, legislative, and judicial. The executive cabinet is elected in the spring semester. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20GOV.jpg" width="170" height="170" alt=" Student Government Association"></a>
+            <h4>
+                Student Government Association
+            </h4>
+        </div>
+        <!-- Here I am creating circle clickable image 15 -->
+        <div class="row s3-mb-10">
+            <div class="col-lg-4 col-md-4 text-center">
+                <a class="circle-link garnet-link" href="https://union.fsu.edu" data-title=" This is a student-centered organization through volunteers, boards, committees and student employment. It also offers various experiences for student growth. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSu%20Union.jpg" width="170" height="170" alt="  Student Union"></a>
+                <h4>
+                    Student Union
+                </h4>
+            </div>
+        </div>
+        <!-- Here I am creating circle clickable image 16 -->
+        <div class="row s3-mb-10">
+            <div class="col-lg-4 col-md-4 text-center">
+                <a class="circle-link gold-link" href="https://uhs.fsu.edu" data-title="UHS is Florida State University&apos;s fully accredited primary care facility, provides a full range of medical services and outreach programs. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/tempImageWR2B7i.jpg" width="170" height="170" alt="  University Health Services"></a>
+                <h4>
+                    University Health Services
+                </h4>
+            </div>
+            <!-- Here I am creating circle clickable image 17 -->
+            <div class="col-lg-4 col-md-4 text-center">
+                <a class="circle-link garnet-link" href="https://chaw.fsu.edu" data-title="CHAW encourages healthy lifestyle decisions for students to promote academic success and life-long wellness. They also make wellness services and Health Promotion programs available to all FSU students. &gt;"><img class="img-circle garnetCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20CHAW.avif" width="170" height="170" alt="  Center for Health Advocacy &amp; Wellness"></a>
+                <h4>
+                    Center for Health Advocacy &amp; Wellness
+                </h4>
+            </div>
+            <!-- Here I am creating circle clickable image 18 -->
+            <div class="col-lg-4 col-md-4 text-center">
+                <a class="circle-link gold-link" href="https://housing.fsu.edu" data-title=" They provide on-campus accommodations for 7,200 undergraduate and graduate students in eighteen residence halls. &gt;"><img class="img-circle goldCircle" src="https://live-fsu-dsasandbox.pantheonsite.io/sites/default/files/images/Shirval%20images/FSU%20Housing_0.jpg" width="170" height="170" alt="  University Housing"></a>
+                <h4>
+                    University Housing
+                </h4>
+            </div>
+        </div>
+        <!-- Here is the css of the images --><style type="text/css">                                                                                                                                                                                                                                                                                                                                                                                                             </style>
+    </div>
+</div>
